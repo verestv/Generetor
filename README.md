@@ -22,9 +22,17 @@
 
 <p align="center">
 
-Playing:  <br/>
-![Screenshot 2023-02-05 150229](https://user-images.githubusercontent.com/94048443/216817995-c1544d55-9740-4a2f-acdf-b69394431c06.png)
+Main Menu:  <br/>
+![mainmenu](https://user-images.githubusercontent.com/94048443/221253130-0914e50a-ea47-4685-ab86-a57ca8953353.png)
 
+Pseudo random number generator:  <br/>
+![prng](https://user-images.githubusercontent.com/94048443/221253141-27355d94-08dc-40e8-a6ed-9143e9dc6792.png)
+
+Password creation and validation:  <br/>
+![password](https://user-images.githubusercontent.com/94048443/221253137-07d6ce3b-3181-41e1-9a45-a963065ea4f7.png)
+
+Get hash:  <br/>
+![hash](https://user-images.githubusercontent.com/94048443/221253146-822ea26d-32cc-4205-b845-2050970a1ece.png)
 </p>
 
 <!--
