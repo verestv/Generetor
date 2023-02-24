@@ -2,7 +2,7 @@
 
 
 <h2>Functionality</h2>
-- generate numbers,hes values , binaries in specified range<br/>
+- generate numbers,hex values , binaries in specified range<br/>
 - generate strong password or check how strong ur password is (automatic copy when password generated)<br/>
 - generete hash for your file<br/>
 
